@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer with experience in developing and extending booking and payment systems, with a strong focus on new functionality development to support business requirements. Skilled in designing RESTful APIs using the Slim Framework, integrating payment gateways, and building full-stack, production-ready systems.<br>
+I'm a full stack developer with experience in developing and extending booking and payment systems, with a strong focus on new functionality development to support business requirements. Skilled in designing RESTful APIs , integrating payment gateways, and building full-stack, production-ready systems.<br>
 
 
 ## 🌐 Socials:
