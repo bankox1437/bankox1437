@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer with experience in developing and extending booking and payment systems, with a strong focus on new functionality development to support business requirements. Skilled in designing RESTful APIs , integrating payment gateways, and building full-stack, production-ready systems.<br>
+I'm a full stack developer dedicated to building scalable web applications and continuous learning. Expert in developing new functionality to meet business requirements by bridging complex logic with high-performance solutions. Committed to writing clean, maintainable code and solving technical challenges through meticulous debugging.<br>
 
 
 ## 🌐 Socials:
